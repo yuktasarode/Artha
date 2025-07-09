@@ -32,7 +32,7 @@ cd server
 npm install
 ```
 
-Create a .env file:
+Create a .env file in Server folder:
 
 ```env
 PORT=5000
